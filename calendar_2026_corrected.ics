@@ -1,0 +1,660 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//2026 Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:20260101-newyear@calendar2026
+DTSTART;VALUE=DATE:20260101
+SUMMARY:New Year's Day / Újév
+DESCRIPTION:UK Public Holiday & Hungarian Public Holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260106-epiphany@calendar2026
+DTSTART;VALUE=DATE:20260106
+SUMMARY:Epiphany
+DESCRIPTION:Book of Common Prayer - Feast Day
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260125-septuagesima@calendar2026
+DTSTART;VALUE=DATE:20260125
+SUMMARY:Septuagesima Sunday
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260201-sexagesima@calendar2026
+DTSTART;VALUE=DATE:20260201
+SUMMARY:Sexagesima Sunday
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260202-candlemas@calendar2026
+DTSTART;VALUE=DATE:20260202
+SUMMARY:Purification of the Blessed Virgin Mary (Candlemas)
+DESCRIPTION:Book of Common Prayer - Feast Day
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260208-quinquagesima@calendar2026
+DTSTART;VALUE=DATE:20260208
+SUMMARY:Quinquagesima Sunday
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260211-ashwednesday@calendar2026
+DTSTART;VALUE=DATE:20260211
+SUMMARY:Ash Wednesday
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260215-lent1@calendar2026
+DTSTART;VALUE=DATE:20260215
+SUMMARY:First Sunday in Lent
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260222-lent2@calendar2026
+DTSTART;VALUE=DATE:20260222
+SUMMARY:Second Sunday in Lent
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260301-lent3@calendar2026
+DTSTART;VALUE=DATE:20260301
+SUMMARY:Third Sunday in Lent
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260308-lent4@calendar2026
+DTSTART;VALUE=DATE:20260308
+SUMMARY:Fourth Sunday in Lent
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260315-lent5@calendar2026
+DTSTART;VALUE=DATE:20260315
+SUMMARY:Fifth Sunday in Lent (Passion Sunday)
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260315-hungary1848@calendar2026
+DTSTART;VALUE=DATE:20260315
+SUMMARY:Nemzeti ünnep (1848-as forradalom és szabadságharc évfordulója)
+DESCRIPTION:Hungarian Public Holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260322-lent6@calendar2026
+DTSTART;VALUE=DATE:20260322
+SUMMARY:Sixth Sunday in Lent (Palm Sunday)
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260325-annunciation@calendar2026
+DTSTART;VALUE=DATE:20260325
+SUMMARY:Annunciation of the Blessed Virgin Mary
+DESCRIPTION:Book of Common Prayer - Feast Day
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260329-palmsunday@calendar2026
+DTSTART;VALUE=DATE:20260329
+SUMMARY:Palm Sunday
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260402-maundythursday@calendar2026
+DTSTART;VALUE=DATE:20260402
+SUMMARY:Maundy Thursday
+DESCRIPTION:Book of Common Prayer - Holy Week
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260403-goodfriday@calendar2026
+DTSTART;VALUE=DATE:20260403
+SUMMARY:Good Friday
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260404-eastereve@calendar2026
+DTSTART;VALUE=DATE:20260404
+SUMMARY:Easter Eve
+DESCRIPTION:Book of Common Prayer - Holy Week
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260405-easter@calendar2026
+DTSTART;VALUE=DATE:20260405
+SUMMARY:Easter Day
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260406-eastermonday@calendar2026
+DTSTART;VALUE=DATE:20260406
+SUMMARY:Easter Monday
+DESCRIPTION:Book of Common Prayer - Easter Week
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260410-goodfridayholiday@calendar2026
+DTSTART;VALUE=DATE:20260410
+SUMMARY:Good Friday / Nagypéntek
+DESCRIPTION:UK Public Holiday & Hungarian Public Holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260412-easter1@calendar2026
+DTSTART;VALUE=DATE:20260412
+SUMMARY:First Sunday after Easter
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260413-eastermonholiday@calendar2026
+DTSTART;VALUE=DATE:20260413
+SUMMARY:Easter Monday / Húsvéthétfő
+DESCRIPTION:UK Public Holiday & Hungarian Public Holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260419-easter2@calendar2026
+DTSTART;VALUE=DATE:20260419
+SUMMARY:Second Sunday after Easter
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260425-stmark@calendar2026
+DTSTART;VALUE=DATE:20260425
+SUMMARY:St. Mark the Evangelist
+DESCRIPTION:Book of Common Prayer - Feast Day
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260426-easter3@calendar2026
+DTSTART;VALUE=DATE:20260426
+SUMMARY:Third Sunday after Easter
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260501-labour@calendar2026
+DTSTART;VALUE=DATE:20260501
+SUMMARY:A munka ünnepe
+DESCRIPTION:Hungarian Public Holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260503-easter4@calendar2026
+DTSTART;VALUE=DATE:20260503
+SUMMARY:Fourth Sunday after Easter
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260504-mayday@calendar2026
+DTSTART;VALUE=DATE:20260504
+SUMMARY:Early May Bank Holiday
+DESCRIPTION:UK Public Holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260510-easter5@calendar2026
+DTSTART;VALUE=DATE:20260510
+SUMMARY:Fifth Sunday after Easter
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260511-rogationmon@calendar2026
+DTSTART;VALUE=DATE:20260511
+SUMMARY:Rogation Monday
+DESCRIPTION:Book of Common Prayer - Rogation Days
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260512-rogationtue@calendar2026
+DTSTART;VALUE=DATE:20260512
+SUMMARY:Rogation Tuesday
+DESCRIPTION:Book of Common Prayer - Rogation Days
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260513-rogationwed@calendar2026
+DTSTART;VALUE=DATE:20260513
+SUMMARY:Rogation Wednesday
+DESCRIPTION:Book of Common Prayer - Rogation Days
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260514-ascension@calendar2026
+DTSTART;VALUE=DATE:20260514
+SUMMARY:Ascension Day
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260516-balaton@calendar2026
+DTSTART;VALUE=DATE:20260516
+SUMMARY:Balatoni Évadnyitó Nagydíj
+DESCRIPTION:Sailing Event - Balaton
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260517-ascensionsunday@calendar2026
+DTSTART;VALUE=DATE:20260517
+SUMMARY:Sunday after Ascension
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260524-whitsunday@calendar2026
+DTSTART;VALUE=DATE:20260524
+SUMMARY:Whit Sunday (Pentecost)
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260525-spring@calendar2026
+DTSTART;VALUE=DATE:20260525
+SUMMARY:Spring Bank Holiday
+DESCRIPTION:UK Public Holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260531-trinity@calendar2026
+DTSTART;VALUE=DATE:20260531
+SUMMARY:Trinity Sunday
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260601-whitmonday@calendar2026
+DTSTART;VALUE=DATE:20260601
+SUMMARY:Pünkösdhétfő
+DESCRIPTION:Hungarian Public Holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260607-trinity1@calendar2026
+DTSTART;VALUE=DATE:20260607
+SUMMARY:First Sunday after Trinity
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260614-trinity2@calendar2026
+DTSTART;VALUE=DATE:20260614
+SUMMARY:Second Sunday after Trinity
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260621-trinity3@calendar2026
+DTSTART;VALUE=DATE:20260621
+SUMMARY:Third Sunday after Trinity
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260624-stjohn@calendar2026
+DTSTART;VALUE=DATE:20260624
+SUMMARY:St. John Baptist
+DESCRIPTION:Book of Common Prayer - Feast Day
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260627-klasszikus@calendar2026
+DTSTART;VALUE=DATE:20260627
+SUMMARY:Klasszikus Kupa
+DESCRIPTION:Sailing Event - Balaton
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260628-trinity4@calendar2026
+DTSTART;VALUE=DATE:20260628
+SUMMARY:Fourth Sunday after Trinity
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260705-trinity5@calendar2026
+DTSTART;VALUE=DATE:20260705
+SUMMARY:Fifth Sunday after Trinity
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260712-trinity6@calendar2026
+DTSTART;VALUE=DATE:20260712
+SUMMARY:Sixth Sunday after Trinity
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260718-met@calendar2026
+DTSTART;VALUE=DATE:20260718
+SUMMARY:MET Klasszikus kupa
+DESCRIPTION:Sailing Event - Balaton
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260719-trinity7@calendar2026
+DTSTART;VALUE=DATE:20260719
+SUMMARY:Seventh Sunday after Trinity
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260725-stjames@calendar2026
+DTSTART;VALUE=DATE:20260725
+SUMMARY:St. James
+DESCRIPTION:Book of Common Prayer - Feast Day
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260725-feher@calendar2026
+DTSTART;VALUE=DATE:20260725
+SUMMARY:Fehér Szalag
+DESCRIPTION:Sailing Event - Balaton
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260726-trinity8@calendar2026
+DTSTART;VALUE=DATE:20260726
+SUMMARY:Eighth Sunday after Trinity
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260730-kekszalag@calendar2026
+DTSTART;VALUE=DATE:20260730
+SUMMARY:Kékszalag
+DESCRIPTION:Sailing Event - Balaton
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260802-trinity9@calendar2026
+DTSTART;VALUE=DATE:20260802
+SUMMARY:Ninth Sunday after Trinity
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260808-timu@calendar2026
+DTSTART;VALUE=DATE:20260808
+SUMMARY:Timu Emlékverseny
+DESCRIPTION:Sailing Event - Balaton
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260809-trinity10@calendar2026
+DTSTART;VALUE=DATE:20260809
+SUMMARY:Tenth Sunday after Trinity
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260816-trinity11@calendar2026
+DTSTART;VALUE=DATE:20260816
+SUMMARY:Eleventh Sunday after Trinity
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260820-stephen@calendar2026
+DTSTART;VALUE=DATE:20260820
+SUMMARY:Az államalapítás ünnepe (Szent István napja)
+DESCRIPTION:Hungarian Public Holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260823-trinity12@calendar2026
+DTSTART;VALUE=DATE:20260823
+SUMMARY:Twelfth Sunday after Trinity
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260827-bajnoksag@calendar2026
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260831
+SUMMARY:Bajnokság
+DESCRIPTION:Sailing Event - Alsóörs
+LOCATION:Alsóörs
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260830-trinity13@calendar2026
+DTSTART;VALUE=DATE:20260830
+SUMMARY:Thirteenth Sunday after Trinity
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260831-summer@calendar2026
+DTSTART;VALUE=DATE:20260831
+SUMMARY:Summer Bank Holiday
+DESCRIPTION:UK Public Holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260906-trinity14@calendar2026
+DTSTART;VALUE=DATE:20260906
+SUMMARY:Fourteenth Sunday after Trinity
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260913-trinity15@calendar2026
+DTSTART;VALUE=DATE:20260913
+SUMMARY:Fifteenth Sunday after Trinity
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260919-felsziget@calendar2026
+DTSTART;VALUE=DATE:20260919
+SUMMARY:Félszigetkerülő Széchenyi István Emlékverseny
+DESCRIPTION:Sailing Event - Balaton
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260920-trinity16@calendar2026
+DTSTART;VALUE=DATE:20260920
+SUMMARY:Sixteenth Sunday after Trinity
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260927-trinity17@calendar2026
+DTSTART;VALUE=DATE:20260927
+SUMMARY:Seventeenth Sunday after Trinity
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260929-stmichael@calendar2026
+DTSTART;VALUE=DATE:20260929
+SUMMARY:St. Michael and All Angels
+DESCRIPTION:Book of Common Prayer - Feast Day
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261004-trinity18@calendar2026
+DTSTART;VALUE=DATE:20261004
+SUMMARY:Eighteenth Sunday after Trinity
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261011-trinity19@calendar2026
+DTSTART;VALUE=DATE:20261011
+SUMMARY:Nineteenth Sunday after Trinity
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261018-stluke@calendar2026
+DTSTART;VALUE=DATE:20261018
+SUMMARY:St. Luke
+DESCRIPTION:Book of Common Prayer - Feast Day
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261018-trinity20@calendar2026
+DTSTART;VALUE=DATE:20261018
+SUMMARY:Twentieth Sunday after Trinity
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261023-hungary1956@calendar2026
+DTSTART;VALUE=DATE:20261023
+SUMMARY:Nemzeti ünnep (1956-os forradalom évfordulója)
+DESCRIPTION:Hungarian Public Holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261025-trinity21@calendar2026
+DTSTART;VALUE=DATE:20261025
+SUMMARY:Twenty-first Sunday after Trinity
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261028-sssimonande@calendar2026
+DTSTART;VALUE=DATE:20261028
+SUMMARY:SS. Simon and Jude
+DESCRIPTION:Book of Common Prayer - Feast Day
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261101-allsaints@calendar2026
+DTSTART;VALUE=DATE:20261101
+SUMMARY:All Saints / Mindenszentek
+DESCRIPTION:Book of Common Prayer - Feast Day & Hungarian Public Holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261101-trinity22@calendar2026
+DTSTART;VALUE=DATE:20261101
+SUMMARY:Twenty-second Sunday after Trinity
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261108-trinity23@calendar2026
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Twenty-third Sunday after Trinity
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261115-trinity24@calendar2026
+DTSTART;VALUE=DATE:20261115
+SUMMARY:Twenty-fourth Sunday after Trinity
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261122-trinity25@calendar2026
+DTSTART;VALUE=DATE:20261122
+SUMMARY:Sunday next before Advent
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261129-advent1@calendar2026
+DTSTART;VALUE=DATE:20261129
+SUMMARY:Advent Sunday (First Sunday in Advent)
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261206-advent2@calendar2026
+DTSTART;VALUE=DATE:20261206
+SUMMARY:Second Sunday in Advent
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261213-advent3@calendar2026
+DTSTART;VALUE=DATE:20261213
+SUMMARY:Third Sunday in Advent
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261220-advent4@calendar2026
+DTSTART;VALUE=DATE:20261220
+SUMMARY:Fourth Sunday in Advent
+DESCRIPTION:Book of Common Prayer - Moveable Feast
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261221-stthomas@calendar2026
+DTSTART;VALUE=DATE:20261221
+SUMMARY:St. Thomas
+DESCRIPTION:Book of Common Prayer - Feast Day
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261225-christmas@calendar2026
+DTSTART;VALUE=DATE:20261225
+SUMMARY:Nativity of our Lord (Christmas Day) / Karácsony első napja
+DESCRIPTION:Book of Common Prayer - Feast Day\, UK Public Holiday & Hungarian Public Holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261226-ststephen@calendar2026
+DTSTART;VALUE=DATE:20261226
+SUMMARY:St. Stephen
+DESCRIPTION:Book of Common Prayer - Feast Day
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261226-karacsony2@calendar2026
+DTSTART;VALUE=DATE:20261226
+SUMMARY:Karácsony második napja
+DESCRIPTION:Hungarian Public Holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261227-stjohn@calendar2026
+DTSTART;VALUE=DATE:20261227
+SUMMARY:St. John the Evangelist
+DESCRIPTION:Book of Common Prayer - Feast Day
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261228-innocents@calendar2026
+DTSTART;VALUE=DATE:20261228
+SUMMARY:Holy Innocents
+DESCRIPTION:Book of Common Prayer - Feast Day
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261228-boxing@calendar2026
+DTSTART;VALUE=DATE:20261228
+SUMMARY:Boxing Day (Substitute)
+DESCRIPTION:UK Public Holiday (substitute day as Dec 26 falls on Saturday)
+END:VEVENT
+
+END:VCALENDAR
