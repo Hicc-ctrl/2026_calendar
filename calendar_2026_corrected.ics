@@ -47,8 +47,8 @@ DESCRIPTION:Book of Common Prayer - Moveable Feast
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260211-ashwednesday@calendar2026
-DTSTART;VALUE=DATE:20260211
+UID:20260218-ashwednesday@calendar2026
+DTSTART;VALUE=DATE:20260218
 SUMMARY:Ash Wednesday
 DESCRIPTION:Book of Common Prayer - Moveable Feast
 END:VEVENT
