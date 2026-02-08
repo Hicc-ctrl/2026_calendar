@@ -54,37 +54,37 @@ DESCRIPTION:Book of Common Prayer - Moveable Feast
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260215-lent1@calendar2026
-DTSTART;VALUE=DATE:20260215
+UID:20260222-lent1@calendar2026
+DTSTART;VALUE=DATE:20260222
 SUMMARY:First Sunday in Lent
 DESCRIPTION:Book of Common Prayer - Moveable Feast
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260222-lent2@calendar2026
-DTSTART;VALUE=DATE:20260222
+UID:202600301-lent2@calendar2026
+DTSTART;VALUE=DATE:202600301
 SUMMARY:Second Sunday in Lent
 DESCRIPTION:Book of Common Prayer - Moveable Feast
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260301-lent3@calendar2026
-DTSTART;VALUE=DATE:20260301
+UID:20260308-lent3@calendar2026
+DTSTART;VALUE=DATE:20260308
 SUMMARY:Third Sunday in Lent
 DESCRIPTION:Book of Common Prayer - Moveable Feast
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260308-lent4@calendar2026
-DTSTART;VALUE=DATE:20260308
+UID:20260315-lent4@calendar2026
+DTSTART;VALUE=DATE:20260315
 SUMMARY:Fourth Sunday in Lent
 DESCRIPTION:Book of Common Prayer - Moveable Feast
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260315-lent5@calendar2026
-DTSTART;VALUE=DATE:20260315
-SUMMARY:Fifth Sunday in Lent (Passion Sunday)
+UID:20260322-lent5@calendar2026
+DTSTART;VALUE=DATE:20260322
+SUMMARY:Fifth Sunday in Lent
 DESCRIPTION:Book of Common Prayer - Moveable Feast
 END:VEVENT
 
@@ -96,8 +96,8 @@ DESCRIPTION:Hungarian Public Holiday
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260322-lent6@calendar2026
-DTSTART;VALUE=DATE:20260322
+UID:20260329-lent6@calendar2026
+DTSTART;VALUE=DATE:20260329
 SUMMARY:Sixth Sunday in Lent (Palm Sunday)
 DESCRIPTION:Book of Common Prayer - Moveable Feast
 END:VEVENT
@@ -105,15 +105,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:20260325-annunciation@calendar2026
 DTSTART;VALUE=DATE:20260325
-SUMMARY:Annunciation of the Blessed Virgin Mary
+SUMMARY:Lady Day
 DESCRIPTION:Book of Common Prayer - Feast Day
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20260329-palmsunday@calendar2026
-DTSTART;VALUE=DATE:20260329
-SUMMARY:Palm Sunday
-DESCRIPTION:Book of Common Prayer - Moveable Feast
 END:VEVENT
 
 BEGIN:VEVENT
@@ -152,24 +145,10 @@ DESCRIPTION:Book of Common Prayer - Easter Week
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260410-goodfridayholiday@calendar2026
-DTSTART;VALUE=DATE:20260410
-SUMMARY:Good Friday / Nagypéntek
-DESCRIPTION:UK Public Holiday & Hungarian Public Holiday
-END:VEVENT
-
-BEGIN:VEVENT
 UID:20260412-easter1@calendar2026
 DTSTART;VALUE=DATE:20260412
 SUMMARY:First Sunday after Easter
 DESCRIPTION:Book of Common Prayer - Moveable Feast
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20260413-eastermonholiday@calendar2026
-DTSTART;VALUE=DATE:20260413
-SUMMARY:Easter Monday / Húsvéthétfő
-DESCRIPTION:UK Public Holiday & Hungarian Public Holiday
 END:VEVENT
 
 BEGIN:VEVENT
@@ -266,15 +245,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:20260524-whitsunday@calendar2026
 DTSTART;VALUE=DATE:20260524
-SUMMARY:Whit Sunday (Pentecost)
+SUMMARY:Whit Sunday, Pünkösd
 DESCRIPTION:Book of Common Prayer - Moveable Feast
 END:VEVENT
 
 BEGIN:VEVENT
 UID:20260525-spring@calendar2026
 DTSTART;VALUE=DATE:20260525
-SUMMARY:Spring Bank Holiday
-DESCRIPTION:UK Public Holiday
+SUMMARY:Pünkösdhétfő, Spring Bank Holiday
+DESCRIPTION:UK HU Public Holiday
 END:VEVENT
 
 BEGIN:VEVENT
@@ -282,13 +261,6 @@ UID:20260531-trinity@calendar2026
 DTSTART;VALUE=DATE:20260531
 SUMMARY:Trinity Sunday
 DESCRIPTION:Book of Common Prayer - Moveable Feast
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20260601-whitmonday@calendar2026
-DTSTART;VALUE=DATE:20260601
-SUMMARY:Pünkösdhétfő
-DESCRIPTION:Hungarian Public Holiday
 END:VEVENT
 
 BEGIN:VEVENT
