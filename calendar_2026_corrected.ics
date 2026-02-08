@@ -252,7 +252,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:20260525-spring@calendar2026
 DTSTART;VALUE=DATE:20260525
-SUMMARY:Pünkösdhétfő, Spring Bank Holiday
+SUMMARY:Pünkösdhétfő, Whitmonday
 DESCRIPTION:UK HU Public Holiday
 END:VEVENT
 
