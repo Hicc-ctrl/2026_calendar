@@ -657,4 +657,11 @@ SUMMARY:Boxing Day (Substitute)
 DESCRIPTION:UK Public Holiday (substitute day as Dec 26 falls on Saturday)
 END:VEVENT
 
+BEGIN:VEVENT
+UID:20260704-boxing@calendar2026
+DTSTART;VALUE=DATE:20260704
+SUMMARY:Ezüst Szalag - Éjszakai túraverseny
+DESCRIPTION:Sailing Event - Balaton
+END:VEVENT
+
 END:VCALENDAR
